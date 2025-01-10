@@ -1,0 +1,1 @@
+%SystemRoot%\Sysnative\cmd.exe /c "netsh advfirewall firewall show rule name="Monitoring" > ..\blocked_addresses.txt"
